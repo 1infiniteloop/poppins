@@ -17,7 +17,7 @@ export default function AnythingWeWant() {
             href="https://remix.run/tutorials/blog"
             rel="noreferrer"
           >
-            15m Quickstart Blog Tutorials
+            10m Quickstart Blog Tutorials
           </a>
         </li>
         <li>
