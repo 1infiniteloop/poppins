@@ -8,7 +8,7 @@ export const meta = () => {
 export default function AnythingWeWant() {
   return (
     <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.8" }}>
-      <h1>Welcome to Remix this is feature two</h1>
+      <h1>Welcome to Remix</h1>
 
       <ul>
         <li>
@@ -26,7 +26,7 @@ export default function AnythingWeWant() {
             href="https://remix.run/tutorials/jokes"
             rel="noreferrer"
           >
-            Deep Dive Jokes App Tutorial
+            Deep Dive
           </a>
         </li>
         <li>
