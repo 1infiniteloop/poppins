@@ -26,7 +26,7 @@ export default function AnythingWeWant() {
             href="https://remix.run/tutorials/jokes"
             rel="noreferrer"
           >
-            Deep Dive Jokes App Tutorial
+            Deep Dive
           </a>
         </li>
         <li>
